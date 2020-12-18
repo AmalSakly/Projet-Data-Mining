@@ -3,10 +3,15 @@
 Notre projet vise à maitriser l’API de twitter pour l’extraction des tweets ainsi que le NLP(naturallanguageprocessing)avec NLTK en Python,aussi mettre en évidence et appliquer
 les principes de nettoyage des données et regrouper ensemble les tweets qui sont similaire. 
 Ce projet se constitute de 4 phases:
-# Etape 1:Extraction des données Tweeter
-# Etape2: Prétraitement des tweets
-# Etape3:Traitement des tweets: NLP (Natural LanguageProcessing)
-# Etape 4 :Classification de tweets (en utilisant K-Means)
+
+
+Etape 1:Extraction des données Tweeter
+
+ Etape2: Prétraitement des tweets
+ 
+Etape3:Traitement des tweets: NLP (Natural LanguageProcessing)
+
+Etape 4 :Classification de tweets (en utilisant K-Means)
 
 
  
